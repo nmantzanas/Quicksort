@@ -1,14 +1,8 @@
-void swap(int a, int b)
-{
-  int t = a;
-  a = b;
-  b = t;
-}
+void swap(int* a, int* b);
 
-void printArray(int A[], int n)
-{
-  int i;
-  for (i = 0; i < n; i++) {
-    printf("%d ", A[i]);
-  }
-}
+int LomutoPartition(int A[], int l, int r);
+
+void QuickSort(int A[], int l, int r);
+
+void printArray(int A[], int n);
+

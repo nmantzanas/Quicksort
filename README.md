@@ -1,4 +1,4 @@
 # quick_sort
 Quick Sort Algorithm
 
-Implementation with randomised pivot
+Implementation with Lomuto Partition
