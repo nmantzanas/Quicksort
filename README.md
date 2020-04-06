@@ -1,2 +1,4 @@
 # quick_sort
-Quick Sort Algorithm 
+Quick Sort Algorithm
+
+Implementation with randomised pivot
